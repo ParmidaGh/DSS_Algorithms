@@ -229,6 +229,11 @@ Run the Python implementation with:
 python ahp_book_selection.py
 ```
 
+The program outputs:
+
+Final weights of each book is [...]
+The best book to choose is Book X.
+
 where the final weights represent the calculated AHP priorities of the four alternatives.
 
 # Author
