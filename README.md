@@ -43,16 +43,12 @@ Each module in this repository is a self-contained implementation of an MCDM met
 DSS_Algorithms
 │
 ├── AHP/
-│   └── README.md
 │
 ├── TOPSIS/
-│   └── README.md
 │
 ├── ANP/
-│   └── README.md
 │
 ├── TOPSIS-Community-Detection-Algorithms/
-│   └── README.md
 │
 └── README.md
 ```
@@ -82,7 +78,7 @@ git clone https://github.com/ParmidaGh/DSS_Algorithms.git
 cd DSS_Algorithms/<module-name>
 ```
 
-Replace `<module-name>` with `AHP`, `TOPSIS`, `ANP`, or `Implementation`, then follow the instructions in that module's README.
+Replace `<module-name>` with `AHP`, `TOPSIS`, `ANP`, or `TOPSIS-Community-Detection-Algorithms`, then follow the instructions in that module's README.
 
 ---
 
